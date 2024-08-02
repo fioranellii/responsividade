@@ -1,0 +1,7 @@
+Adaptação ao Tamanho da Tela: Media queries ajustam o layout para se adequar ao tamanho da tela, garantindo que o conteúdo não fique cortado ou muito pequeno para ler em dispositivos menores.
+
+Melhoria da Navegação: Alteram a disposição e a visibilidade dos elementos, como menus e barras de navegação, para tornar a navegação mais intuitiva e acessível em diferentes tamanhos de tela.
+
+Otimização de Imagens e Fontes: Ajustam o tamanho das imagens e fontes para que se ajustem corretamente em diferentes resoluções, evitando que o conteúdo fique deformado ou difícil de ler.
+
+Gerenciamento de Layouts: Permitem que o layout mude de múltiplas colunas em telas grandes para uma coluna única em telas pequenas, melhorando a legibilidade e a usabilidade.
